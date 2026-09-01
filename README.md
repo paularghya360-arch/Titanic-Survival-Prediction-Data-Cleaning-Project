@@ -638,9 +638,6 @@ Titanic-Survival-Prediction/
 ├── notebooks/
 │   └── Titanic_Data_Cleaning.ipynb
 │
-├── src/
-│   └── data_cleaning.py
-│
 ├── README.md
 │
 ├── requirements.txt
