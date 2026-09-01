@@ -1,15 +1,21 @@
 # 🚢 Titanic Survival Prediction – Data Cleaning Project
 
 <p align="center">
-  <img src="images/titanic_banner.png" alt="Titanic Survival Prediction" width="900">
+  <img src="images/age_distribution.png" width="30%" alt="Age Distribution">
+  <img src="images/overall_survival.png" width="30%" alt="Overall Survival">
+  <img src="images/survival_by_sex.png" width="30%" alt="Survival by Sex">
 </p>
 
 <p align="center">
-  <img src="images/age_distribution.png" alt="Age Distribution" width="450">
-  <img src="images/survival_by_gender.png" alt="Survival by Gender" width="450">
+  <b>Age Distribution</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Overall Survival</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Survival by Sex</b>
 </p>
 
 ---
+
 
 ## 📌 Project Overview
 
@@ -710,27 +716,6 @@ The next stage of this project can include:
 * 📦 Model deployment
 
 The ultimate goal is to develop a complete **Titanic Survival Prediction Machine Learning model**.
-
----
-
-# 🏆 Project Status
-
-```text
-✅ Dataset Loading
-✅ Data Exploration
-✅ Missing Value Handling
-✅ Categorical Encoding
-✅ Data Visualization
-✅ Feature Selection
-✅ Train/Test Split
-✅ Cleaned Dataset Export
-⬜ Machine Learning Model
-⬜ Model Evaluation
-⬜ Hyperparameter Tuning
-⬜ Deployment
-```
-
-**Current Status: Data Preprocessing Completed ✅**
 
 ---
 
